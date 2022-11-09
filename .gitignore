@@ -1,2 +1,5 @@
-*.xlsx
+FixedFile.xlsx
+~$FixedFile.xlsx
+~$AttendanceTracker.xlsx 
+~$ExampleInput.xlsx
 *.png

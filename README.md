@@ -26,6 +26,7 @@ pip install easygui
 ```
 python BatchQrCodeGenerator.py
 ```
+Select "ExampleInput.xlsx" to run an example
 
 ## QR Code Scanning Instructions
 
@@ -46,3 +47,7 @@ python BatchQrCodeGenerator.py
    4.  Tap on the "CSV Down Arrow" option
    5.  Tap on the share icon (3 dots connected by two lines)
    6.  Tap on the email option (or share the file by whatever preferred means)
+
+## Attendence Tracker
+- Attendence Sheet: Enter a row for each attending. Can be copy and pasted from QR scanned CSV's and minor post processing from above. 
+- Tally Sheet: Automatically keeps tally of each entry from the attendence sheet
